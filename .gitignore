@@ -1,0 +1,6 @@
+__pycache__/
+.runtime_deps/
+rlc_fit_results/
+*.csv
+*.pdf
+*.png
